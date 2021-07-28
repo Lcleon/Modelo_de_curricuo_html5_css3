@@ -57,7 +57,7 @@ body{
 
 /* HEADER */
 header{
-    background-color: #4586084f;
+    background-color: #45860869;
     padding-top: 30px;
 }
 header .container{
@@ -121,7 +121,7 @@ header .coluna ul li a{
 
 /* FOOTER */
 footer{
-    background-color: #860808ce;
+    background-color: #4586088c;
 }
 footer .container{}
 footer nav{}
