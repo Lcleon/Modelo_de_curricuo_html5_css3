@@ -74,7 +74,7 @@ header .coluna-direita{
     flex-basis: 70%;
 }
 header .coluna figure{}
- .image{
+header .coluna img{
     max-width: 180px;
     border-radius: 49%;
 }
