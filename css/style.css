@@ -66,17 +66,17 @@ header .container{
 header .linha{
     align-items: center;
 }
-header .coluna{}
+
 header .coluna-esquerda{
     flex-basis: 30%;
 }
 header .coluna-direita{
     flex-basis: 70%;
 }
-header .coluna figure{}
+
 header .coluna img{
-    max-width: 220px;
-    border-radius: 49%;
+    max-width: 190px;
+    border-radius: 50%;
 }
 header .coluna h1{
     font-size: 1.5rem;
@@ -123,18 +123,16 @@ header .coluna ul li a{
 footer{
     background-color: #4586088c;
 }
-footer .container{}
-footer nav{}
-footer nav ul{}
-footer nav ul li{}
+
+
 footer nav ul li a{
     color: white;
 }
-footer nav .info-contato{}
+
 footer nav .info-contato li{
     margin: 0 0 15px;
 }
-footer nav .info-contato li a{}
+
 footer nav .redes-sociais{
     display: flex;
     justify-content: center;
@@ -146,20 +144,17 @@ footer nav .redes-sociais li{
     margin: 0 14px;
     text-align: center;
 }
-footer nav .redes-sociais li a{}
+
 footer nav .redes-sociais li a img{
     width: 40px;
 }
-footer nav .redes-sociais li a img p{}
+
 
 
 /* PÁGINA INICIAL */
-main{}
-main .container{}
-main .linha{}
-main .coluna{}
-main .coluna-esquerda{}
-main .coluna-direita{}
+
+
+
 main .coluna section{
     border: 1px solid #d4e9ff;
     margin: 0 0 20px;
@@ -175,7 +170,7 @@ main .coluna section p{
     color: #636363;
     line-height: 1.5;
 }
-main .coluna section ul{}
+
 main .coluna section ul li{
     margin: 0 0 12px;
 }
@@ -188,7 +183,7 @@ main .coluna section ul li strong{
     margin: 5px 0 10px;
     display: inline-block;
 }
-main .coluna section ul li p{}
+
 
 
 /* EXTRAS */
