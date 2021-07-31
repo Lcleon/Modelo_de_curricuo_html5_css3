@@ -24,7 +24,7 @@ Sample resume using only html5 and css3 containing mostly fictitious information
     - Grid layout
     - Flexbox
 ---
-###Imagem do projeto
+### Imagem do projeto
 
-![Imagem do currículo](curriculo.jpg "currículo")
+![Imagem do currículo](img/curriculo.jpg "currículo")
 
